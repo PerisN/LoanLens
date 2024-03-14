@@ -1,2 +1,2 @@
 # LoanLens
-LoanLens - BANK LOAN REPORT ANALYSIS
+LoanLens is a comprehensive analysis project that provides actionable insights into bank loan portfolios. Through SQL, queries are executed to extract, transform, and analyze data related to loan performance, customer demographics, repayment trends, and risk factors. These insights are then translated into dynamic and interactive visualizations using Tableau, enabling stakeholders to explore loan data visually and uncover key trends and patterns. LoanSense empowers banks to make informed decisions regarding loan origination, risk assessment, and portfolio management, ultimately optimizing lending practices and enhancing financial performance.
