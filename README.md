@@ -9,7 +9,7 @@ LoanLens empowers banks to make informed decisions regarding risk assessment and
 
 [Download Query Document](https://github.com/PerisN/LoanLens/blob/main/QUERY.docx)
 
-[Download the Problem Statement Document]([path/to/your/doc/file.do](https://github.com/PerisN/LoanLens/blob/main/PROBLEM%20STATEMENT.docx)
+[Download the Problem Statement Document](https://github.com/PerisN/LoanLens/blob/main/PROBLEM%20STATEMENT.docx)
 
 
 
