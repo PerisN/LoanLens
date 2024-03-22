@@ -7,7 +7,7 @@ LoanLens empowers banks to make informed decisions regarding risk assessment and
 
 [Link to the tableau Project](https://public.tableau.com/app/profile/peris/viz/LoanLens/SUMMARY?publish=yes)
 
-[Download Query Document](https://github.com/PerisN/LoanLens/blob/main/QUERY.docx)
+[Download the Query Document](https://github.com/PerisN/LoanLens/blob/main/QUERY.docx)
 
 [Download the Problem Statement Document](https://github.com/PerisN/LoanLens/blob/main/PROBLEM%20STATEMENT.docx)
 
