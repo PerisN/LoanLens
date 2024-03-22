@@ -6,6 +6,8 @@ These insights are then translated into dynamic visualizations using Tableau, en
 LoanLens empowers banks to make informed decisions regarding risk assessment and portfolio management, ultimately optimizing lending practices and enhancing financial performance.
 
 [Link to the tableau Project](https://public.tableau.com/app/profile/peris/viz/LoanLens/SUMMARY?publish=yes)
+[Download Query Document](path/to/your/doc/file.doc)
+[Download the Problem Statement Document](path/to/your/doc/file.doc)
 
 
 
